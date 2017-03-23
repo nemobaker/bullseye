@@ -9,3 +9,9 @@
     npm start
 
 Open http://localhost:8080 in your browser!
+
+## Future Builds
+    Conditional Formatting
+    Search
+    File Uploads
+    Mobile Design

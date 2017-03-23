@@ -204,6 +204,7 @@ class TargetRow extends React.Component {
   }
 
 }
+
 class EditableCell extends React.Component {
 
   render() {
@@ -216,4 +217,5 @@ class EditableCell extends React.Component {
   }
 
 }
+
 React.render( < Targets / > , document.getElementById('container'));
