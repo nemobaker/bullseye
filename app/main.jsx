@@ -61,10 +61,6 @@ class Targets extends React.Component {
 
   }
 
-  handleUserInput(filterText) {
-    this.setState({filterText: filterText});
-  };
-
   handleRowDel(target) {
     var index = this.state.targets.indexOf(target);
     this.state.targets.splice(index, 1);
