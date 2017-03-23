@@ -1,6 +1,5 @@
-# Webpack React Starter Kit
-
-### This repository is no longer maintained. I strongly recommend using [create-react-app](https://github.com/facebookincubator/create-react-app) instead.
+# bullsEYe target tracker
+    A simple online tool to track and analyze potential target companies.
 
 ## Getting Started
 
@@ -9,4 +8,4 @@
     npm install
     npm start
 
-Then just open http://localhost:8080 in your browser!
+Open http://localhost:8080 in your browser!
